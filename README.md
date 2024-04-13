@@ -26,7 +26,7 @@ Como Contribuir:
 
 5. Pull Request: Abra um pull request para que possamos revisar suas contribuições e mesclá-las ao repositório principal.
 
-obre Nós:
+sobre Nós:
 
 Somos uma comunidade apaixonada por moda, comprometida em promover a diversidade e a autoexpressão por meio do vestuário. Nossa missão é criar um espaço inclusivo onde todos se sintam bem-vindos e capacitados para explorar seu próprio estilo.
 
