@@ -26,10 +26,6 @@ Como Contribuir:
 
 5. Pull Request: Abra um pull request para que possamos revisar suas contribuições e mesclá-las ao repositório principal.
 
-Licença:
-
-Todo o conteúdo deste repositório está disponível sob a [Licença MIT](LICENSE.md), o que significa que você é livre para usar, modificar e distribuir o conteúdo, desde que mantenha a atribuição adequada.
-
 obre Nós:
 
 Somos uma comunidade apaixonada por moda, comprometida em promover a diversidade e a autoexpressão por meio do vestuário. Nossa missão é criar um espaço inclusivo onde todos se sintam bem-vindos e capacitados para explorar seu próprio estilo.
