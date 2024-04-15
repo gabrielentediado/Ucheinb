@@ -2,7 +2,7 @@ Bem-vindo(a) a nossa loja de Roupas!
 
 Lembre-se que ainda é um protótipo!
 
-Seja você um entusiasta da moda ou alguém em busca de inspiração para seu guarda-roupa, estamos animados em recebê-lo(a) em nosso site. Aqui, buscamos compartilhar não apenas peças de vestuário, mas também uma paixão por estilo, expressão e individualidade. Portanto, aqui não vendemos apenas roupas,mas  a arte de se expressar.
+Seja você um entusiasta da moda ou alguém em busca de inspiração para seu guarda-roupa, estamos animados em recebê-lo(a) em nosso site. Aqui, buscamos compartilhar não apenas peças de vestuário, mas também uma paixão por estilo, expressão e individualidade. Portanto, aqui não vendemos apenas roupas, mas  a arte de se expressar.
 
 O que você encontrará aqui:
 
