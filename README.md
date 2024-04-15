@@ -28,7 +28,7 @@ Como Contribuir:
 
 Sobre Nós:
 
-Somos estudantes e estamks comprometidos em promover a diversidade e a autoexpressão por meio do vestuário. Nossa missão é criar um espaço inclusivo onde todos se sintam bem-vindos e capacitados para explorar seu próprio estilo.
+Somos estudantes e estamos comprometidos em promover a diversidade e a autoexpressão por meio do vestuário. Nossa missão é criar um espaço inclusivo onde todos se sintam bem-vindos e capacitados para explorar seu próprio estilo.
 
 Obrigado por visitar nosso repositório! Esperamos que você encontre inspiração e diversão ao navegar pelo nosso conteúdo. Se tiver alguma dúvida ou sugestão, não hesite em nos contatar.
 
